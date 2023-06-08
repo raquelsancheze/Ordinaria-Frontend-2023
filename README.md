@@ -18,7 +18,7 @@ Para ello se proporciona una API con las siguietes queries y mutaciones
 
 **events**
 
-Devuelve todos los eventos a partir de la fecha actual. Los eventos están agrupados por fecha y hora.
+Devuelve todos los eventos a partir de la fecha actual. Los eventos están ordenados por fecha y hora.
 
 **createEvent**
 
@@ -47,5 +47,5 @@ El alumno debe desarrollar el frontend que ofrezca dicha funcionalidad buscando 
   - Se pueden añadir eventos, gestionando los errores cuando 2 eventos se solapan: 2 puntos.
   - Se pueden eliminar eventos seleccionándolo de la lista de eventos: 2 puntos.
   - Se pueden modificar eventos, a partir de un evento seleccionado y con el formulario pre-relleno con los valores actuales: 2 puntos.
-  - Se pueden ver los eventos existentes en una lista, ordenados por fecha y hora (idelamente agrupados por fechas): 2 puntos.
-  - La estructura del código y la elección de los componentes es adecuada: 2 puntos.
+  - Se pueden ver los eventos existentes en una lista, ordenados por fecha y hora y agrupados por fechas: 2 puntos.
+  - La estructura y calidad del código y la elección de los componentes es adecuada: 2 puntos.
